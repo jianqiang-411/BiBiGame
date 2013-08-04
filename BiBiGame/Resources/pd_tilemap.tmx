@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="shaMo_background" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="shaMo_background.jpg" width="800" height="207"/>
+ </tileset>
+ <layer name="Floor" width="100" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztk9kOgyAQRf3t7ralm3b75J4+TEImg4pvJvcmJxoZDiDQNIqiKIqiLD1r2MAWdrCHA7RwhBOcIcEFrnCDOzyggx6e8II3fGAl9yy39fOevO+QZ2yMIW9Un79brT2967/Gb/Dd+ps7BU4bv3Z+Y+22T2mGO7n6vL3W5c9CtPfeWRojOoNdYT+mrNG7ck80l36C28/F///cXXNXFEUp5wcJ9Jl8
+  </data>
+ </layer>
+ <layer name="Wall" width="100" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzDVTnGEAhdHFITgkRXD3NCS4W4G7ywxOcOfvcwqq/Yrdcpl578wp75Mei8UyyCSLbHLIJY8f5FNAIUUUU0IpZZTzk19x//TQjrQTNSuopIpqaqiljnoaaKSJZlpopY12Ouikiz9x/9COthM1u/nLP3ropY9+BhhkiGFGGGWMcSaYZIppZuL+oR1tJ2rOMc8CiyyxzAqrrLHOBptssc0Ou+yxzwGHHH11ZkM70k6mecIpZ5xzwSVX/OeaG265454HHnnimRdeeeOdD45DO9JOphkWFhb2XZYWpJTfQUr5BNQ/fTU=
+  </data>
+ </layer>
+</map>

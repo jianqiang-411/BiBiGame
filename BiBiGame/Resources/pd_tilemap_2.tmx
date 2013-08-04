@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="BingYuan" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="BingYuan.png" width="946" height="443"/>
+ </tileset>
+ <layer name="Floor" width="100" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztklsKgCAQRW2FLaT22dvMBVQL6aMLJYhYUaAY3AMHkRmdkVEIQgghhPydCtawgS3sYA8HKOForQpOTs7dOeWJp1ojdF8mR58W2WEJZ+wXuD7cGSKWao0YfUlrHvZMzFy2l+/68kfc/FRrxOhLe8ydmRBCrtkB2vHsJg==
+  </data>
+ </layer>
+ <layer name="Wall" width="100" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0UdPVVEUgNH7FHvBkfInbHM7oNIs6MCCYkNQsMQOmtgrDhR7sGId2DWxoEHUP2Lv3RHWZXRgXjDeO3wvdydrcvaXPTkDgiAYyCAGM4ShDCObHHIZzoi/2jBNlHvp2I4kj3wKKKSIUYxmDGMpZhzjmcBEJjGZEqYwlVKmMZ0ZSW2YJsq9dGtnMosyZlNOBXOYSyVVzGM+C1jIEpayjOWsoJoaVrKKRSxOasM0Ue6lW7uaNaxlHevZwEY2sZktbGUbtWxnBzupYxe72cNe9rGfA0m7upBNlHvp1tZzkEMc5ghHOUYDxznBSU5xmjOc5RznucBFLnGZK1xtZddaG6aJci/V22tc5wY3aeQWt//8SRN3aOYu97gfxBNPPPGkzjzgIY94zBOe8oznvODlf7oofdT7qdK/4jVveMs73vOBj3ziM70TQdCHvvSjPy3ev/CVb3znx6/PsUvQhrZk0I72iX93cf+770BHOtGZLnSlG93JpAd55FNAIUX0pBdZ/ATEiF3Y
+  </data>
+ </layer>
+</map>
